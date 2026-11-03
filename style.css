@@ -1,11 +1,11 @@
 :root {
-  --page-bg: #fff8ef;
-  --card-bg: #ffffff;
-  --font-color: #f13d0b;
-  --heading-color: #d64f2a;
-  --accent-color: #a8442a;
-  --accent-light: #f4d6bd;
-  --border-color: #ead6c5;
+  --page-bg: #c43c2b;
+  --card-bg: #942e2e;
+  --font-color: #fce0d8;
+  --heading-color: #f8f8f8;
+  --accent-color: hsl(13, 31%, 94%);
+  --accent-light: #9c1b1b;
+  --border-color: #e25a5a;
   --heading-font: Georgia, "Times New Roman", serif;
   --body-font: Arial, Helvetica, sans-serif;
 }
@@ -95,7 +95,7 @@ main { width: min(960px, 92%); margin: 28px auto 42px; }
   min-height: 230px;
   border: 2px dashed var(--accent-color);
   border-radius: 18px;
-  background: linear-gradient(135deg, #f8e4d0, #fff9f1);
+  background: linear-gradient(135deg, #e25151, #fc4a4a);
   display: grid;
   place-items: center;
   text-align: center;
